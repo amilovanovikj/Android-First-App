@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="btnToast">TOAST</string>
+    <string name="btnCount">COUNT</string>
+    <string name="btnRandom">RANDOM</string>
+    <string name="valCounter">0</string>
+    <string name="randomHeading">Here is a random number between 0 and %1d.</string>
+    <string name="valRandom">R</string>
+</resources>
